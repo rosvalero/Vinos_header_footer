@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: inline-flex;
+    justify-content: space-around;
+    background-color: #5e1414;
+    width: 100%;
+    height: 80px;
+}
+
+.logo{
+    margin-bottom: 20px;
+}
+.logo_header{
+    width: 50px;
+}
+
+.menu_header{
+    list-style-type: none;
+    display: inline-flex;
+    margin-top: 30px;
+}
+
+.menu_header a{
+    color: #f4d3ca;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0px 20px;
+}
+
+.menu_header a:hover{
+    color: #ad8786;
+}
+
+.carrito{
+    margin-top: 5px;
+}
+.carrito_header{
+    width: 40px;
+}
+
+footer{
+    color: #f4d3ca;
+    background-color: #1e050b;
+    height: 390px;
+    margin-top: 60px;
+}
+
+.navegacion_footer{
+    display: inline-flex;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.acceso_footer{
+    width: 200px;
+    margin: 10px 20px;
+    margin-left: 5px;
+}
+
+.menu_footer{
+    list-style-type: none;
+    padding: 0px 0px;
+    margin-left: -20px;
+}
+
+.menu_footer a{
+    color: #f4d3ca;
+    font-size: 18px;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.menu_footer a:hover{
+    color: #ad8786;
+}
+
+.servicio_footer{
+    width: 230px;
+    margin: 10px 20px;
+    margin-left: -30px;
+}
+
+.menu_servicio_footer{
+    list-style-type: none;
+    padding: 0px 0px;
+    margin-left: -3px;
+}
+
+.menu_servicio_footer a{
+    color: #f4d3ca;
+    font-size: 18px;
+    text-decoration: none;
+    padding-left: 60px;
+}
+
+.menu_servicio_footer a:hover{
+    color: #ad8786;
+}
+
+.oficina_footer{
+    width: 380px;
+    margin: 10px 0px;
+    margin-left: -30px;
+}
+
+.oficina_footer p{
+    padding-left: 90px;
+    font-size: 18px;
+}
+
+.newsletter_footer{
+    width: 380px;
+    margin: 10px 0px;
+    margin-left: -40px;
+}
+
+.newsletter_footer p{
+    padding-left: 110px;
+    font-size: 18px;
+}
+
+.redes_footer{
+    display: flex;
+    justify-content: center;
+}
+
+.redes{
+    display: inline-block;
+}
+
+.redes_footer img{
+    width: 35px;
+    padding-left: 10px;
+}
+
+.redes_footer figure{
+    display: flex;
+    justify-content: center;
+}
+
+
+.redes_footer p{
+    text-align: center;
+}
+
+
